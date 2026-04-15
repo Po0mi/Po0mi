@@ -72,7 +72,7 @@ React • Next.js • GSAP • Three.js • Modern UI/UX
 
 ## Connect With Me
 
-- Portfolio: gabdev.online
+- Portfolio: [gabdev.online](https://www.gabdev.online)
 - Email: decastrogab21@gmail.com
 
 ---
