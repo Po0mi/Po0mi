@@ -76,7 +76,3 @@ React • Next.js • GSAP • Three.js • Modern UI/UX
 - Email: decastrogab21@gmail.com
 
 ---
-
-<p align="center">
-✨ “I build interfaces that feel as good as they look.” ✨
-</p>
