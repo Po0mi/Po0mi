@@ -70,15 +70,6 @@ Frontend Developer focused on building clean, interactive, and responsive UI.
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: gabdev.online
