@@ -12,10 +12,9 @@ React • Next.js • GSAP • Three.js • Modern UI/UX
 ##  About Me
 
 - Frontend-focused developer with strong UI/UX sense  
-- I build smooth, interactive web experiences (animations, 3D, micro-interactions)  
+- I build smooth, interactive web experiences
 - Experience with full-stack (PHP, MySQL, Firebase)  
 - Background in design (Figma + Adobe tools)  
-- Also skilled in IT support & hardware troubleshooting  
 
 ---
 
