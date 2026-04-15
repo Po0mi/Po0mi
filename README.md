@@ -62,13 +62,6 @@ React • Next.js • GSAP • Three.js • Modern UI/UX
 
 ---
 
-### IT Support & Hardware
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Expert-blue?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-RJ45%20Crimping-green?style=for-the-badge)
-![Hardware](https://img.shields.io/badge/PC%20Assembly-Upgrades-orange?style=for-the-badge)
-
----
-
 
 ## Connect With Me
 
