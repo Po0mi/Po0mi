@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gab</h1>
+<h1 align="center">Hi 👋, I'm Dan</h1>
 <p align="center">
 Frontend Developer focused on building clean, interactive, and responsive UI.
 </p>
